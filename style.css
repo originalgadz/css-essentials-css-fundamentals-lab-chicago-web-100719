@@ -24,11 +24,11 @@ img {
     text-align: center;
 }
 #details {
-  display: block;
+  width: 900px;
   margin: 0 auto;
 }
 #details div {
-
+  display: inline-block;
   width: 200px;
   height: 100px;
   padding: 10px;
