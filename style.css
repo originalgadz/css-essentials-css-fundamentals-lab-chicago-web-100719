@@ -23,4 +23,12 @@ img {
     width: 800px;
     text-align: center;
 }
-display: inline-block;
+#detail {
+  width: 800px;
+  margin: 0 auto;
+}
+#detail div {
+  display: inline-block;
+  width: 180;
+  padding: 5;
+}
