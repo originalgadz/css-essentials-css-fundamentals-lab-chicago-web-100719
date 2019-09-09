@@ -23,11 +23,11 @@ img {
     width: 800px;
     text-align: center;
 }
-#detail {
+#details {
   width: 800px;
   margin: 0 auto;
 }
-#detail div {
+#details div {
   display: inline-block;
   width: 200px;
   height: 70px;
