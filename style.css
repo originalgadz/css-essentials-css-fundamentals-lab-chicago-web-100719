@@ -28,7 +28,7 @@ img {
   margin: 0 auto;
 }
 #details div {
-  display: inline-block;
+  display: inline;
   width: 200px;
   height: 100px;
   padding: 10px;
