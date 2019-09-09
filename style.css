@@ -23,9 +23,6 @@ img {
     width: 800px;
     text-align: center;
 }
-#details {
-  display: inline;
-}
 #detals div {
-    float: left;
+    display: inline-block;
 }
