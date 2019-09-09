@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+header a {
+  padding: 10px;
+  background: rgb(200,200,200);
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+#featured-property figure figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+#featured-property p {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
+#details {
+  padding: 10px;
+}
