@@ -24,7 +24,7 @@ img {
     text-align: center;
 }
 #details {
-    display: block;
+    display: inline;
 }
 #details div {
     float: left;
