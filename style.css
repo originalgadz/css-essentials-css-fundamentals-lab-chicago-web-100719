@@ -23,12 +23,4 @@ img {
     width: 800px;
     text-align: center;
 }
-#details {
-  display: block;
-  margin: 0 auto;
-}
-#details div {
-  width: 180px;
-  height: 100px;
-  padding: 5px;
-}
+display: inline-block;
