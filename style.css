@@ -23,6 +23,9 @@ img {
     width: 800px;
     text-align: center;
 }
+#details {
+  width: 800px;
+}
 #details div {
   display: inline-block;
   width: 200px;
