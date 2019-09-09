@@ -24,7 +24,7 @@ img {
     text-align: center;
 }
 #details {
-    display: inline-block;
+    display: block;
 }
 #details div {
     width: 100px;
