@@ -23,7 +23,7 @@ img {
     width: 800px;
     text-align: center;
 }
-#details {
+#details div {
     display: inline-block;
     width: 100px;
     height: 100px;
