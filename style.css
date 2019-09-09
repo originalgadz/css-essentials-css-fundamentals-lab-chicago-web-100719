@@ -27,7 +27,5 @@ img {
     display: block;
 }
 #details div {
-    width: 100px;
-    height: 100px;
-    padding: 5px;
+    float: left;
 }
