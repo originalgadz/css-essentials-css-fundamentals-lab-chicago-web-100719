@@ -28,8 +28,8 @@ img {
   margin: 0 auto;
 }
 #detail div {
-  display: inline;
+  display: inline-block;
   width: 150px;
-  height: 100px;
+  height: 70px;
   padding: 5px;
 }
