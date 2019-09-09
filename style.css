@@ -25,5 +25,7 @@ img {
 }
 #details {
   display: block;
-  float: left;
+}
+#detals div {
+    float: left;
 }
