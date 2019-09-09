@@ -30,5 +30,6 @@ img {
 #detail div {
   display: inline-block;
   width: 180;
+  height: 100;
   padding: 5;
 }
